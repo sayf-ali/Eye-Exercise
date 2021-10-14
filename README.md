@@ -2,7 +2,7 @@
 
 Eye Exercise is a project that largely uses CSS and JavaScript to manipulate HTML elements in order to create a set of balls with a surrounding background that gives the appearance of a pair of eyes that follow the cursor.  Code refactoring was used to add enhancements. Some of the enhancements were:
 
-1. Added gray **Background Color** of the webpage
+1. Added gray **Background Color** to the webpage
 2. Added **"The Undodgeable Eyes"** heading
 3. Added goldenrod **Border** around the black eyes to give appearance of radient irides.
 
